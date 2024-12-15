@@ -9,6 +9,4 @@ fun main() {
     where = "D3"
     stepNumber++
     println("$whereFrom-$where;$stepNumber")
-
-
 }
