@@ -1,4 +1,4 @@
-package org.example
+package org.example.lesson_2
 
 fun main() {
     val countWorkers = 50
